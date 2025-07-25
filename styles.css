@@ -1,0 +1,35 @@
+nav ul{
+    display:flex;
+    justify-content: space-between;
+    margin-bottom:150px;
+}
+nav ul li{
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+}
+.manue-style{
+    display:flex;
+    justify-content: space-between;
+    gap:50px;
+}
+.H-style li a{
+    font-weight:bold;
+    color:black;
+}
+.s-style,.a-style{
+    font-size:12px;;
+}
+.banner{
+    display:flex;
+    justify-content: space-between;
+    margin-bottom:50px;
+}
+.banner-container h1{
+    font-size:60px;
+    font-weight:bold;
+}
+.b-font-style{
+    color:tomato;
+}
